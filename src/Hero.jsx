@@ -47,7 +47,7 @@ function Hero() {
         {/* Right Side - Profile Picture */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="/hero_section.png" // Replace with your actual image path
+            src="hero_section.png" // Replace with your actual image path
             alt="Your Name"
             className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full shadow-lg"
           />
