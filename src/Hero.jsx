@@ -5,7 +5,6 @@ function Hero() {
     <section className="min-h-screen flex justify-center items-center bg-gray-900 text-white px-6 pt-20">
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-8">
         
-        {/* Left Side - Text Content */}
         <section>
             
         </section>
@@ -23,10 +22,9 @@ function Hero() {
             See My Work
           </a>
 
-          {/* Social Icons */}
           <div className="flex justify-center md:justify-start gap-6 mt-4">
             <a
-              href="https://github.com/yourgithub"
+              href="https://github.com/evauex"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-white transition text-3xl"
@@ -34,7 +32,7 @@ function Hero() {
               <FaGithub />
             </a>
             <a
-              href="https://linkedin.com/in/yourlinkedin"
+              href="https://www.linkedin.com/in/enrique-sutarno-hadinoto/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-blue-400 transition text-3xl"
@@ -44,10 +42,9 @@ function Hero() {
           </div>
         </div>
 
-        {/* Right Side - Profile Picture */}
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="hero_section.png" // Replace with your actual image path
+            src="hero_section.png"
             alt="Your Name"
             className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full shadow-lg"
           />
