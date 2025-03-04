@@ -10,7 +10,7 @@ function Projects() {
       {
         title: "FlexiCar",
         description: "For my final Web Programming project, I developed FlexiCar, a car rental website with dedicated user and admin pages for managing vehicle data. The platform allows users to search for available cars, view automatic price calculations, make bookings, and track vehicle status (available, booked, or returned).",
-        image: "/Project_Rental_Mobil.PNG",
+        image: "project2.png",
         link: "https://ecommerce.com",
       },
     ];
